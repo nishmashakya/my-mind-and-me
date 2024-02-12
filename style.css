@@ -1,0 +1,104 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #FCFFFD;
+}
+
+
+h1, h2, p {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+p {
+
+}
+
+.section {
+	padding: 50px 0px 50px 0px;
+}
+
+
+/*NAVIGATION BAR*/
+.navbar {
+	background-color: #5D737E;
+	overflow: hidden;
+}
+
+/* style links (text) in navbar */
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 20px 16px;	/*vertical horizontal*/
+  text-decoration: none;	/*don't underline or purple*/
+  font-size: 17px;
+}
+
+/* on hover, change color of tabs */
+.navbar a:hover {
+  background-color: #FCFFFD;
+  color: black;
+}
+
+/* color of current tab */
+.navbar a.current {
+  background-color: #64B6AC;
+  color: white;
+ }
+
+
+/*PAGE: MENTAL HEALTH 101*/
+
+/*.info {
+	background-color: #DAFFEF;
+}
+
+.disorders {
+	background-color: #FCFFFD;
+}
+
+.facts {
+	background-color: #DAFFEF;
+}*/
+
+
+
+/*PAGE: RESOURCE HUB*/
+
+
+/*.support {
+	background-color: #DAFFEF;
+}
+
+.involved {
+	background-color: #FCFFFD;
+}*/
+
+
+
+/*PAGE: SELF CARE*/
+
+/*.tips {
+	background-color: #DAFFEF;
+}
+
+.checklist {
+	background-color: #FCFFFD;
+}
+
+.journal {
+	background-color: #DAFFEF;
+}*/
