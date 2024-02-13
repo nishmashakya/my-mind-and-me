@@ -35,7 +35,7 @@ p, li, .navbar {
 }
 
 .section {
-	padding: 50px 0px 50px 0px;
+	padding: 0px 0px 20px 0px;
 }
 
 
@@ -76,30 +76,6 @@ p, li, .navbar {
 }
 
 
-.blocktext1, .blocktext2, .blocktext3, .blocktext4, .blocktext5 {
-	width: 650px;
-	height: 700px;
-	display: inline-block;
-	text-align: left;
-	padding: 50px 80px 50px 80px;
-	vertical-align: text-top;
-	box-sizing: border-box;
-}
-
-
-.blocktext6 {
-	width: 800px;
-	height: 300px;
-	text-align: center;
-	padding: 50px 80px 50px 80px;
-	vertical-align: text-top;
-	box-sizing: border-box;
-	border-style: solid;
-	border-color: #5D737E;
-	display:block;
-  margin: 0 auto;
-  margin-bottom: 10px;
-}
 
 /*PAGE: MENTAL HEALTH 101*/
 
@@ -121,42 +97,104 @@ p, li, .navbar {
 	background-color: #64B6AC;
 }
 
+.blocktext1, .blocktext2, .blocktext3, .blocktext4, .blocktext5 {
+	width: 650px;
+	height: 700px;
+	display: inline-block;
+	text-align: left;
+	padding: 50px 80px 50px 80px;
+	vertical-align: text-top;
+	box-sizing: border-box;
+}
 
-/*#myth1 {
+
+.blocktext6 {
+	height: 300px;
+	text-align: center;
+	padding: 50px 80px 50px 80px;
+	vertical-align: text-top;
+	box-sizing: border-box;
 	border-style: solid;
 	border-color: #5D737E;
-}*/
+	display:block;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
 
 
 /*PAGE: RESOURCE HUB*/
 
 
-/*.support {
-	background-color: #DAFFEF;
+.hotlines {
+	height: 200px;
+	padding-left: 20px;
+	box-sizing: border-box;
+  margin-bottom: 20px;
+  background-color: #DAFFEF;
 }
 
-.involved {
-	background-color: #FCFFFD;
-}*/
+.groups {
+	height: 300px;
+	padding-left: 20px;
+	box-sizing: border-box;
+  margin-bottom: 20px;
+  background-color: #64B6AC;
+}
+
+.therapy {
+	height: 650px;
+	padding-left: 20px;
+	box-sizing: border-box;
+  margin-bottom: 20px;
+  background-color: #DAFFEF;
+}
 
 
 
 /*PAGE: SELF CARE*/
 
-/*.tips {
+.physical {
+	height: 200px;
+	padding-left: 20px;
+	box-sizing: border-box;
+  margin-bottom: 20px;
+  background-color: #64B6AC;
+}
+
+
+.nutrition {
+	height: 200px;
+	padding-left: 20px;
+	box-sizing: border-box;
+  margin-bottom: 20px;
 	background-color: #DAFFEF;
 }
 
-.checklist {
-	background-color: #FCFFFD;
+.mindful {
+	height: 200px;
+	padding-left: 20px;
+	box-sizing: border-box;
+  margin-bottom: 20px;
+  background-color: #64B6AC;
 }
 
-.journal {
-	background-color: #DAFFEF;
-}*/
+.blocktext7 {
+	text-align: center;
+	padding: 50px 80px 50px 80px;
+	box-sizing: border-box;
+	border-style: solid;
+	border-color: #5D737E;
+	display:block;
+  margin: 0 auto;
+  vertical-align: text-top;
+  margin-bottom: 10px;
+}
 
 
-.credits {
+
+
+.credits, .comments{
 	font-family: "Lato", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -164,3 +202,4 @@ p, li, .navbar {
   color: gray;
   text-decoration: none;
 }
+
